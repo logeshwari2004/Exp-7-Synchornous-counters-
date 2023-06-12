@@ -97,8 +97,3 @@ endmodule
 ## RESULT:
 Hence the Four bit Up counter and Down counter is implemented successfully and its functionality is validated.
 
-
-
-
-
-### RESULTS 
